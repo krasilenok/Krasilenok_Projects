@@ -1,7 +1,7 @@
 # Krasilenok_Projects
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="80"/>
 </div>
 
 <div id="badges" align="center">
