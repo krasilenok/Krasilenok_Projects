@@ -5,3 +5,7 @@
 - обработаны данные о продажах авто, 
 - осуществлен подбор гиперпараметров для моделей (Linear Regression, Random Forest, LightGBM) с помощью GridSearchCV, 
 - оценено качество моделей на основе RMSE.
+
+<div id="header" align="right">
+  <img src="https://cdn3.vectorstock.com/i/1000x1000/15/97/old-car-vector-6731597.jpg" width="100"/>
+</div>
