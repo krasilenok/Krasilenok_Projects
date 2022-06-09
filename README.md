@@ -9,7 +9,7 @@
 </div>
 <div id="badges" align="center">
 <h1> 
-  Hello!
+  Nice to see you!
 </h1>
   </div>
 
