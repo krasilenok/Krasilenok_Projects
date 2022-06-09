@@ -1,6 +1,4 @@
 # Krasilenok_Projects
-Здесь сохранены проекты по Data Science
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
@@ -14,3 +12,7 @@
   Hello!
 </h1>
   </div>
+
+<b>
+Здесь сохранены проекты по Data Science
+</b>
