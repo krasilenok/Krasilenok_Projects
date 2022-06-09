@@ -7,5 +7,5 @@
 - оценено качество моделей на основе RMSE.
 
 <div id="header" align="right">
-  <img src="https://cdn3.vectorstock.com/i/1000x1000/15/97/old-car-vector-6731597.jpg" width="100"/>
+  <img src="https://www.ccarprice.com/products/Mercedes-Benz-AMG-GT-Roadstar-2020.jpg" width="200"/>
 </div>
