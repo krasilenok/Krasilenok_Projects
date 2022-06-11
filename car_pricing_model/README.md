@@ -23,5 +23,5 @@
 5. Качество моделей оценено на кросс-валидации по уровню RMSE.
 6. По каждой модели выведена проведена сортировка признаков по важности.
 <div id="header" align="right">
-  <img src="https://www.ccarprice.com/products/Mercedes-Benz-AMG-GT-Roadstar-2020.jpg" width="200"/>
+  <img src="https://www.ccarprice.com/products/Mercedes-Benz-AMG-GT-Roadstar-2020.jpg" width="210"/>
 </div>
