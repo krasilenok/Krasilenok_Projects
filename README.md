@@ -1,4 +1,4 @@
-# Krasilenok_Projects
+# krasilenok_projects
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="80"/>
