@@ -22,5 +22,5 @@
 
 
 <div id="header" align="right">
-  <img src="https://im.kommersant.ru/ISSUES.PHOTO/REGIONS/NNOV_ONLINE/2018/12/21/drf.jpg" width="230"/>
+  <img src="http://elste.pro/wp-content/uploads/2017/02/telekom.1-600x450.jpg" width="230"/>
 </div>
