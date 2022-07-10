@@ -22,5 +22,6 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Модель определения стоимости автомобилей](https://github.com/krasilenok/krasilenok_projects/tree/main/car_pricing_model) | Обработаны данные о продажах авто, осуществлен подбор гиперпараметров для моделей с помощью GridSearchCV, оценено качество моделей на основе RMSE| *pandas, sklearn, LightGBM, matplotlib, seaborn* |
 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/krasilenok/krasilenok_projects/tree/main/choosing_a_location_for_an_oil_well) | Построена модель, определяющая наиболее прибыльный, спрогнозирована возможная прибыль и риски с помощью техники Bootstrap| *pandas, sklearn, numpy, matplotlib* |
+| [Модель оттока клиентов в телекоме](https://github.com/krasilenok/krasilenok_projects/tree/main/churn_model_telecom) | Построены несколько моделей классификации: catboost, дерево решений, логистическая регрессия, случайный лес | *pandas, sklearn, catboost, matplotlib, seaborn* |
 | [Модель оттока клиентов банка](https://github.com/krasilenok/krasilenok_projects/tree/main/churn_model) | Построены несколько моделей классификации, протестированы различные методы борьбы с дисбалансом классов (использование параметра class_weight, upsampling, downsampling) | *pandas, sklearn, numpy, matplotlib* |
 
